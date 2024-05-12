@@ -1,0 +1,3 @@
+C:/Users/Samuel/CLionProjects/svancarek-gitprojekt/cmake-build-debug/CMakeFiles/svancarek_gitprojekt.dir
+C:/Users/Samuel/CLionProjects/svancarek-gitprojekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samuel/CLionProjects/svancarek-gitprojekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
